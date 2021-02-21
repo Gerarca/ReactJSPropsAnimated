@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJSPropsAnimated/static/css/main.d15cc29a.chunk.css",
+    "main.js": "/ReactJSPropsAnimated/static/js/main.7e9f9708.chunk.js",
+    "main.js.map": "/ReactJSPropsAnimated/static/js/main.7e9f9708.chunk.js.map",
+    "runtime-main.js": "/ReactJSPropsAnimated/static/js/runtime-main.c12bb12a.js",
+    "runtime-main.js.map": "/ReactJSPropsAnimated/static/js/runtime-main.c12bb12a.js.map",
+    "static/js/2.3c16bd73.chunk.js": "/ReactJSPropsAnimated/static/js/2.3c16bd73.chunk.js",
+    "static/js/2.3c16bd73.chunk.js.map": "/ReactJSPropsAnimated/static/js/2.3c16bd73.chunk.js.map",
+    "static/js/3.81b6be58.chunk.js": "/ReactJSPropsAnimated/static/js/3.81b6be58.chunk.js",
+    "static/js/3.81b6be58.chunk.js.map": "/ReactJSPropsAnimated/static/js/3.81b6be58.chunk.js.map",
+    "index.html": "/ReactJSPropsAnimated/index.html",
+    "static/css/main.d15cc29a.chunk.css.map": "/ReactJSPropsAnimated/static/css/main.d15cc29a.chunk.css.map",
+    "static/js/2.3c16bd73.chunk.js.LICENSE.txt": "/ReactJSPropsAnimated/static/js/2.3c16bd73.chunk.js.LICENSE.txt",
+    "static/media/logo.3bb00d02.gif": "/ReactJSPropsAnimated/static/media/logo.3bb00d02.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c12bb12a.js",
+    "static/js/2.3c16bd73.chunk.js",
+    "static/css/main.d15cc29a.chunk.css",
+    "static/js/main.7e9f9708.chunk.js"
+  ]
+}
